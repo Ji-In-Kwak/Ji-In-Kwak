@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ji-in-kwak-762788200" target="_blank"><img src="https://img.shields.io/badge/label-#78BE20?style=plastic&logo=https://user-images.githubusercontent.com/74504090/226838471-83093e6a-b3c0-4d56-9fb6-96590d4ef618.svg&logoColor=#0A66C2"/></a>
 
 ![Jiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-In-Kwak&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-In-Kwak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-In-Kwak&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![linkedin (1)](https://user-images.githubusercontent.com/74504090/226842771-03b471c8-5acd-4284-baac-bd017b83bfb1.svg) -->
